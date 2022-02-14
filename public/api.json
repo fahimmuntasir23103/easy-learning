@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://www.mondly.com/blog/wp-content/uploads/2020/03/learn-bengali-1-960x502.jpg",
+    "title": "Learn Bangla Language",
+    "sub": "Bangla",
+    "price": 250,
+    "trainerName": "Fahim Muntasir",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/03/05124.jpg",
+    "des": "Bangla is the most widely spoken language of Bangladesh With 228 million native speakers."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://images7.content-hci.com/commimg/myhotcourses/blog/post/myhc_84010_255px.jpg",
+    "title": "Learn English Language",
+    "sub": "English",
+    "price": 177,
+    "trainerName": "David Weems",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/08/T-7JJ.jpg",
+    "des": "Modern English has been spreading around the world since the 17th century by the worldwide."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://www.javeamigos.com/wp-content/uploads/2020/08/20200805-01.jpg",
+    "title": "Learn Spanish Language",
+    "sub": "Spanish",
+    "price": 210,
+    "trainerName": "Jhon Frieda",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/03/94752.jpg",
+    "des": "Spanish is a Romance language that originated in the Iberian Peninsula of Europe. it is a global language with nearly 500 million native speakers, "
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://image.shutterstock.com/image-vector/online-language-courses-flat-vector-260nw-1654484521.jpg",
+    "title": "Learn Chinese Language",
+    "sub": "Chinese",
+    "price": 199,
+    "trainerName": "Jhon Harris",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/02/8373.jpg",
+    "des": "Chinese is a group of languages that form the Sinitic branch of the Sino-Tibetan languages, About 1.3 billion people speak a variety of Chinese as their first language."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://cdn.ila-france.com/wp-content/uploads/2020/10/idea-taking-language-course.jpg",
+    "title": "Learn French Language",
+    "sub": "French",
+    "price": 168,
+    "trainerName": "Tomas Bata",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/03/7432.jpg",
+    "des": "French is a Romance language of the Indo-European family. It descended from the Vulgar Latin of the Roman Empire, as did all Romance languages."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://uconsulting.nl/wp-content/uploads/russisches-sprachstudio-jetzt-neu-beim-bahnhof-stadelhofen.jpg",
+    "title": "Learn Russian Language",
+    "sub": "Russian",
+    "price": 111,
+    "trainerName": "Michael Frater",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/08/TL-245.jpeg",
+    "des": "Russian is an East Slavic language native to the Russians in Eastern Europe. It is a part of the Indo-European language family, and is one of four living East Slavic languages, and also part of the larger Balto-Slavic branch. "
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5a9850b95417fc1f5c48bde0/1520454176452-I0FXK78GVHSMHC0MAI7B/Learn+Portuguese+in+Dhaka",
+    "title": "Learn Portuguese Language",
+    "sub": "Portuguese",
+    "price": 170,
+    "trainerName": "Kevin Perry",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/08/T024.jpg",
+    "des": "Portuguese is a Romance language originating in the Iberian Peninsula of Europe. With approximately 215 to 220 million native speakers and 50 million L2 speakers, Portuguese has approximately 270 million total speakers"
+  },
+  {
+    "id": 8,
+    "thumbnail": "https://img.freepik.com/free-vector/indonesia-lettering_7684-133.jpg?size=468&ext=jpg&ga=GA1.2.1387264756.1627171200",
+    "title": "Learn Indonesian Language",
+    "sub": "Indonesian",
+    "price": 130,
+    "trainerName": "Mike Harrison",
+    "trainerImage": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/02/tm-322.jpg",
+    "des": "Indonesian is the official language of Indonesia. It is a standardized variety of Malay, Indonesia is the fourth most populous nation in the world—of which the majority speak Indonesian, which makes it one of the more widely spoken languages in the world."
+  },
+  {
+    "id": 9,
+    "thumbnail": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/02/02/544812-hindi.jpg",
+    "title": "Learn Hindi Language",
+    "sub": "Hindi",
+    "price": 140,
+    "trainerName": "Sundar Pichai",
+    "trainerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROE8qD2hPoyc_wdJSfCaVI29dnld0-w-q5RA&usqp=CAU",
+    "des": "As a linguistic variety, Hindi is the fourth most-spoken first language in the world, after Mandarin, Spanish and English. Hindi alongside Urdu as Hindustani is the third most-spoken language in the world, after Mandarin and English."
+  }
+]

@@ -1,0 +1,27 @@
+.header{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: 100% 42%;
+    background-size: 60%;
+    background-image: url('https://image.freepik.com/free-vector/students-learning-foreign-language-with-vocabulary_74855-11070.jpg');
+}
+.logo{
+    margin: 0px 230px 0px 0px;
+}
+.navLinkContainer{
+    margin-left: 45px;
+}
+.navLink{
+    margin-left: 30px;
+}
+h1{
+    font-size: 46px;
+    margin-top: 103px;
+    width: 530px;
+}
+p{
+    width: 460px;
+    font-weight: 500;
+    margin-top: 34px;
+    margin-left: 15px;
+}
